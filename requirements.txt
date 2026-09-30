@@ -1,0 +1,13 @@
+pandas
+numpy
+python-dotenv
+
+jupyterlab
+ipykernel
+
+sentence-transformers
+chromadb
+groq
+semantic-router
+
+streamlit
