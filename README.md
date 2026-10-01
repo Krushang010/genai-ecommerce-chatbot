@@ -5,7 +5,7 @@
 An end-to-end GenAI e-commerce assistant that understands natural-language shopping requests, searches products using SQL, answers policy-related questions using RAG, and maintains conversational context across follow-up queries.
 
 
-**Live App:** [E-commerce AI Chatbot](YOUR_STREAMLIT_APP_URL)
+**Live App:** [E-commerce AI Chatbot](https://genai-ecommerce-chatbot-flipkart.streamlit.app/)
 ---
 
 ## ✨ What Makes This Project Different?
